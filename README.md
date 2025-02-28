@@ -8,15 +8,6 @@ Atualmente, faço parte do time de tecnologia do Grupo Luminae Energia, onde atu
 
 O Grupo Luminae Energia é referência no desenvolvimento de tecnologias sustentáveis, ajudando empresas a reduzir o consumo de energia e aumentar a eficiência operacional. Através da inovação e tecnologia, buscamos oferecer soluções que impactam positivamente o meio ambiente e a economia de nossos clientes.
 
----
-
-## 🚀 Sobre meu trabalho
-
-- Desenvolvimento de aplicações com Python, Flask e Streamlit;
-- Integração de sistemas internos e banco de dados PostgreSQL;
-- Automação de processos para melhoria de eficiência operacional;
-- Suporte e manutenção de sistemas internos.
-- Atuação no suporte de TI, realizando configuração de máquinas, manutenção de sistemas e apoio à infraestrutura tecnológica.
 
 ---
 
